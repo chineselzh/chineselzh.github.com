@@ -396,7 +396,7 @@
                 
                 <div class="info-break-policy">
                     <i class="far fa-file-word fa-fw"></i>文章字数:&nbsp;&nbsp;
-                    162
+                    150
                 </div>
                 
 
@@ -416,18 +416,18 @@
                 <ul>
 <li> 最近想将Excel文件转换为sqlite数据库文件，网上有一大堆Python代码，但都过于冗余，二少原创利用pandas库只需要几行代码将Excel格式转换为sqlite格式。</li>
 </ul>
-<pre><code>import  pandas  as pd
-import sqlite3 as db
+<pre class=" language-python"><code class="language-python"><span class="token keyword">import</span>  pandas  <span class="token keyword">as</span> pd
+<span class="token keyword">import</span> sqlite3 <span class="token keyword">as</span> db
 
-#如果某列中有开头为0的数字字符串，则需要添加参数  converters=&#123;&#39;开头是0的列名&#39;:str&#125;
+<span class="token comment" spellcheck="true">#如果某列中有开头为0的数字字符串，则需要添加参数  converters=&amp;#123;'开头是0的列名':str&amp;#125;</span>
 
-df=pd.read_excel(&#39;学生成绩.xls&#39;,sheet_name=&#39;一班&#39;) 
-with db.connect(&#39;test.sdb&#39;) as con:    
-    try:
-        df.to_sql(name = &#39;yibancj&#39;, con = con, if_exists=&#39;replace&#39;, index = None)
-        print(&#39;转换成功&#39;)    
-    except Exception as e:
-        print(f&#39;转换出错，原因为：&#123;e.args&#125;&#39;)</code></pre>
+df<span class="token operator">=</span>pd<span class="token punctuation">.</span>read_excel<span class="token punctuation">(</span><span class="token string">'学生成绩.xls'</span><span class="token punctuation">,</span>sheet_name<span class="token operator">=</span><span class="token string">'一班'</span><span class="token punctuation">)</span> 
+<span class="token keyword">with</span> db<span class="token punctuation">.</span>connect<span class="token punctuation">(</span><span class="token string">'test.sdb'</span><span class="token punctuation">)</span> <span class="token keyword">as</span> con<span class="token punctuation">:</span>    
+    <span class="token keyword">try</span><span class="token punctuation">:</span>
+        df<span class="token punctuation">.</span>to_sql<span class="token punctuation">(</span>name <span class="token operator">=</span> <span class="token string">'yibancj'</span><span class="token punctuation">,</span> con <span class="token operator">=</span> con<span class="token punctuation">,</span> if_exists<span class="token operator">=</span><span class="token string">'replace'</span><span class="token punctuation">,</span> index <span class="token operator">=</span> None<span class="token punctuation">)</span>
+        <span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">'转换成功'</span><span class="token punctuation">)</span>    
+    <span class="token keyword">except</span> Exception <span class="token keyword">as</span> e<span class="token punctuation">:</span>
+        <span class="token keyword">print</span><span class="token punctuation">(</span>f<span class="token string">'转换出错，原因为：&amp;#123;e.args&amp;#125;'</span><span class="token punctuation">)</span></code></pre>
 
             </div>
             <hr/>
