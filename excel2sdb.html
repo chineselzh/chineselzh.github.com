@@ -396,7 +396,7 @@
                 
                 <div class="info-break-policy">
                     <i class="far fa-file-word fa-fw"></i>文章字数:&nbsp;&nbsp;
-                    161
+                    168
                 </div>
                 
 
@@ -416,7 +416,7 @@
                 <ul>
 <li> 最近想将Excel文件转换为sqlite数据库文件，网上有一大堆Python代码，但都过于冗余，二少原创利用pandas库只需要几行代码将Excel格式转换为sqlite格式。</li>
 </ul>
-<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span>  pandas  <span class="keyword">as</span> pd</span><br><span class="line"><span class="keyword">import</span> sqlite3 <span class="keyword">as</span> db</span><br><span class="line"></span><br><span class="line"><span class="comment">#如果某列中有开头为0的数字字符串，则需要添加参数  converters=&#123;&#x27;开头是0的列名&#x27;:str&#125;</span></span><br><span class="line"></span><br><span class="line">df=pd.read_excel(<span class="string">&#x27;学生成绩.xls&#x27;</span>,sheet_name=<span class="string">&#x27;一班&#x27;</span>) </span><br><span class="line"><span class="keyword">with</span> db.connect(<span class="string">&#x27;test.sdb&#x27;</span>) <span class="keyword">as</span> con:    </span><br><span class="line">    <span class="keyword">try</span>:</span><br><span class="line">        df.to_sql(name = <span class="string">&#x27;yibancj&#x27;</span>, con = con, if_exists=<span class="string">&#x27;replace&#x27;</span>, index = <span class="literal">None</span>)</span><br><span class="line">        print(<span class="string">&#x27;转换成功&#x27;</span>)    </span><br><span class="line">    <span class="keyword">except</span> Exception <span class="keyword">as</span> e:</span><br><span class="line">        print(<span class="string">f&#x27;转换出错，原因为：<span class="subst">&#123;e.args&#125;</span>&#x27;</span>)</span><br></pre></td></tr></table></figure>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line">import  pandas  as pd</span><br><span class="line">import sqlite3 as db</span><br><span class="line"></span><br><span class="line">#如果某列中有开头为0的数字字符串，则需要添加参数  converters&#x3D;&#123;&#39;开头是0的列名&#39;:str&#125;</span><br><span class="line"></span><br><span class="line">df&#x3D;pd.read_excel(&#39;学生成绩.xls&#39;,sheet_name&#x3D;&#39;一班&#39;) </span><br><span class="line">with db.connect(&#39;test.sdb&#39;) as con:    </span><br><span class="line">    try:</span><br><span class="line">        df.to_sql(name &#x3D; &#39;yibancj&#39;, con &#x3D; con, if_exists&#x3D;&#39;replace&#39;, index &#x3D; None)</span><br><span class="line">        print(&#39;转换成功&#39;)    </span><br><span class="line">    except Exception as e:</span><br><span class="line">        print(f&#39;转换出错，原因为：&#123;e.args&#125;&#39;)</span><br></pre></td></tr></table></figure>
 
 
             </div>
@@ -940,7 +940,7 @@ code[class*="language-"], pre[class*="language-"] { white-space: pre !important;
             <br>
             
             &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
-                class="white-color">3.6k</span>&nbsp;字
+                class="white-color">3.7k</span>&nbsp;字
             
             
             
