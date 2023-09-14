@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>xXx时间屏保 V3.9</title>
+      <link href="/xXxLock39.html"/>
+      <url>/xXxLock39.html</url>
+      
+        <content type="html"><![CDATA[<h3 id="更新记录"><a href="#更新记录" class="headerlink" title="更新记录"></a>更新记录</h3><p><a href="http://www.un69.cc/xxxlockhistory">xXx时间屏保更新记录</a></p><h3 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h3><ul><li><a href="http://www.un69.cc/">龙家二少</a>编写的Windows屏保软件</li><li>一款会变化密码的纯绿色安全锁屏软件</li><li>酷炫的3D效果</li></ul><hr><h3 id="解锁或进入设置方法："><a href="#解锁或进入设置方法：" class="headerlink" title="解锁或进入设置方法："></a>解锁或进入设置方法：</h3><ul><li><p>软件启动后：回车键–&gt;输入密码–&gt;回车键</p></li><li><p>默认超级解锁密码为：111111</p></li><li><p>默认进入设置界面密码为：sz111111  </p></li><li><p>默认时间解锁密码为：当前时间（小时与分钟共计4位数字）</p></li></ul><h3 id="V3-9新玩法："><a href="#V3-9新玩法：" class="headerlink" title="V3.9新玩法："></a>V3.9新玩法：</h3><ul><li><p><strong>水印锁屏：</strong>可自由搭配透明度及信息显示</p></li><li><p>水印锁屏效果：半透明且显示时间</p></li></ul><p><img src="https://www.z4a.net/images/2023/09/14/1111839e7239f99b752.jpg"></p><ul><li>水印锁屏效果：低透明度且不带时间信息</li></ul><p><img src="https://www.z4a.net/images/2023/09/14/2220b47e918fecebfaa.jpg"></p><h3 id="解锁说明"><a href="#解锁说明" class="headerlink" title="解锁说明"></a>解锁说明</h3><p>1、时间带有<code>~~**删除线**~~</code>：此时需要点击鼠标获取焦点，否则无法接受输入命令<br>2、时间是**<em>斜体**</em>：表示正在输入，可以按回车键确认命令，命令错误会自动清空以便重新输入</p><h3 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h3><p><img src="https://ae05.alicdn.com/kf/H989391b28fe04459bfc6d425e75bf3cay.png" alt="基础设置.png"><br><img src="https://ae03.alicdn.com/kf/Hfc13f96aab8947de8f5d4091ff3b48879.png" alt="锁屏界面带背景图像.png"><br><img src="https://ae01.alicdn.com/kf/Ha77fa5b31d2741afac2a6228fb16071fC.png" alt="文字动画之随机汉字.gif"></p><p><img src="https://ae03.alicdn.com/kf/H9719b66153e0498185a48954ac779ef37.png" alt="水波动画.gif"></p><h3 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h3><p><a href="https://ljes.lanzouj.com/iVxFh17t0v5e">蓝奏云下载</a></p><p>密码：7izb</p><h3 id="注意："><a href="#注意：" class="headerlink" title="注意："></a>注意：</h3><ul><li>本软件需要.net4.7.2支持，<a href="https://dotnet.microsoft.com/download/dotnet-framework/net472">win7及XP系统点我跳转到微软官方下载Runtime</a></li><li>精简版系统可能也需要先安装.net4.7.2</li></ul><h3 id="常见问题"><a href="#常见问题" class="headerlink" title="常见问题"></a>常见问题</h3><h4 id="问：为什么360等安全软件会报毒"><a href="#问：为什么360等安全软件会报毒" class="headerlink" title="问：为什么360等安全软件会报毒"></a>问：为什么360等安全软件会报毒</h4><ul><li>因为软件会屏蔽Alt+F4、WIN键、防止任务管理器的打开、接收键盘输入（仅本程序内接收命令和密码）等敏感操作，故而会被360等安全软件报毒。如果不放心可以在腾讯哈勃分析系统试试，保证无毒！</li></ul><h4 id="问：软件无法使用"><a href="#问：软件无法使用" class="headerlink" title="问：软件无法使用"></a>问：软件无法使用</h4><ul><li>本软件需要.NET Framework4.7.2支持，win7及XP系统请自行百度</li><li>精简版win8及以上系统可能也需要先安装.NET Framework4.7.2</li></ul><h4 id="问：设置随系统启动失败"><a href="#问：设置随系统启动失败" class="headerlink" title="问：设置随系统启动失败"></a>问：设置随系统启动失败</h4><ul><li>这个是因为软件要向系统启动目录（位于C盘）写入快捷方式，然后您的电脑上的XX卫士或者XX管家不允许造成的！</li><li>可以手动设置快捷方式到启动目录或者关闭XX卫士、XX管家后再设置，设置完成后就可以打开这些个卫士管家了</li></ul><h4 id="问：如何只查看壁纸不看桌面图标"><a href="#问：如何只查看壁纸不看桌面图标" class="headerlink" title="问：如何只查看壁纸不看桌面图标"></a>问：如何只查看壁纸不看桌面图标</h4><ul><li>在基础设置里勾选【隐藏桌面图标】和【最小化所有窗口】</li></ul><h4 id="问：可以以幻灯片的形式播放文件夹下的图片吗？"><a href="#问：可以以幻灯片的形式播放文件夹下的图片吗？" class="headerlink" title="问：可以以幻灯片的形式播放文件夹下的图片吗？"></a>问：可以以幻灯片的形式播放文件夹下的图片吗？</h4><ul><li>可以，在高级设置里设置背景图片及透明度即可</li></ul><h4 id="问：不想看到帮助及锁屏文字怎么办？"><a href="#问：不想看到帮助及锁屏文字怎么办？" class="headerlink" title="问：不想看到帮助及锁屏文字怎么办？"></a>问：不想看到帮助及锁屏文字怎么办？</h4><ul><li>在基础设置里勾选【是否隐藏帮助】及【是否隐藏时间与锁屏文字】即可。隐藏后按Esc键短时显示时间及文字</li></ul><h4 id="问：什么时候能作为屏保使用而无需手动启动？"><a href="#问：什么时候能作为屏保使用而无需手动启动？" class="headerlink" title="问：什么时候能作为屏保使用而无需手动启动？"></a>问：什么时候能作为屏保使用而无需手动启动？</h4><ul><li>预计下一个版本实现</li></ul><h4 id="问：为什么自定义浮动动画显示时是乱码？"><a href="#问：为什么自定义浮动动画显示时是乱码？" class="headerlink" title="问：为什么自定义浮动动画显示时是乱码？"></a>问：为什么自定义浮动动画显示时是乱码？</h4><ul><li>文字动画.txt文件需要是UTF-8编码才行（使用记事本打开【文字动画.txt】 –&gt;另存为–&gt;右下角编码里选择UTF-8–&gt;保存）。</li></ul><h4 id="问：可以不安装字体而直接使用ttf字体文件吗？"><a href="#问：可以不安装字体而直接使用ttf字体文件吗？" class="headerlink" title="问：可以不安装字体而直接使用ttf字体文件吗？"></a>问：可以不安装字体而直接使用ttf字体文件吗？</h4><ul><li>可以。将ttf字体文件放入font目录，之后就可以在高级设置里选择字体了</li></ul><h4 id="问：软件会收费吗？"><a href="#问：软件会收费吗？" class="headerlink" title="问：软件会收费吗？"></a>问：软件会收费吗？</h4><ul><li>软件会永久免费</li></ul><h4 id="问：软件会停止更新吗？"><a href="#问：软件会停止更新吗？" class="headerlink" title="问：软件会停止更新吗？"></a>问：软件会停止更新吗？</h4><ul><li>每年教师节发布新版</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 原创软件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> xXx软件 </tag>
+            
+            <tag> xXx时间屏保 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>xXx时间屏保更新记录</title>
+      <link href="/xxxlockhistory.html"/>
+      <url>/xxxlockhistory.html</url>
+      
+        <content type="html"><![CDATA[<h3 id="后续计划更新功能"><a href="#后续计划更新功能" class="headerlink" title="后续计划更新功能"></a><code>后续计划更新功能</code></h3><ul><li><strong>可以做为屏保来使用（V4.0）</strong></li><li>高分屏支持（V4.1）</li><li>更多屏保动画效果（V3.8+）</li><li>每年教师节（9.10）更新</li></ul><hr><h3 id="20230910-V3-9"><a href="#20230910-V3-9" class="headerlink" title="20230910 V3.9"></a><code>20230910</code> V3.9</h3><ul><li><p>添加视频背景效果</p></li><li><p>添加视频背景快捷键：Ctrl+0表示静音；Ctrl+9表示解除静音</p></li><li><p>添加水印效果（超酷）</p></li><li><p><del>增加了对屏保参数的处理，可以安装为屏保使用（V4.0实现）</del></p></li><li><p><del>解决Win8及以上系统下屏保Scr没有透明效果的问题（V4.0实现）</del></p></li><li><p>修复某特定情况下进入设置页面导致程序崩溃的问题</p></li><li><p>更新帮助页面</p></li><li><p>更新设置页面</p></li></ul><hr><h3 id="20211122-V3-8"><a href="#20211122-V3-8" class="headerlink" title="20211122 V3.8"></a><code>20211122</code> V3.8</h3><ul><li>兼容支持Win11</li><li><strong>添加水波动画效果（自动与手动），酷就一个字</strong></li><li>支持直接将ttf格式字体文件放在font目录下，不用安装即可使用</li><li>优化动画效果</li><li>本版本需要.net framework4.7.2支持</li><li>其它Bug修复</li></ul><hr><h3 id="20190504-V3-7"><a href="#20190504-V3-7" class="headerlink" title="20190504 V3.7"></a><code>20190504</code> V3.7</h3><ul><li>添加了可自定义的浮动文字动画效果，<strong>相当炫酷</strong></li><li>可更换文字、时间、浮动文字的字体</li><li>支持腾讯桌面、360桌面隐藏桌面图标</li><li>其它Bug修复</li></ul><hr><h3 id="20171227-V3-6-1"><a href="#20171227-V3-6-1" class="headerlink" title="20171227 V3.6.1"></a><code>20171227</code> V3.6.1</h3><ul><li>紧急修复某种情况下按回车键会关闭程序的问题（此Bug存在于1.0到3.6的所有版本）</li></ul><hr><h3 id="20171209-V3-6"><a href="#20171209-V3-6" class="headerlink" title="20171209 V3.6"></a><code>20171209</code> V3.6</h3><ul><li>新增双显示器支持</li><li>添加启动程序时将所有窗口最小化的功能（可以更好的透视桌面壁纸）</li><li>修改配置文件格式，更高效更安全（需要重新保存设置）</li><li>修复在某些电脑上隐藏桌面图标无效的问题</li><li>修复在已经隐藏桌面图标的情况下启动程序，关闭程序时桌面图标会显示的问题</li><li>去掉冗余代码</li><li>其他BUG</li></ul><hr><h3 id="20170808-V3-5"><a href="#20170808-V3-5" class="headerlink" title="20170808 V3.5"></a><code>20170808</code> V3.5</h3><ul><li>解锁密码增加前缀、后缀 ，安全性更高</li><li>添加打赏作者功能</li><li>更换立体图标</li><li>其他小BUG修复</li></ul><hr><h3 id="20170501-V3-4"><a href="#20170501-V3-4" class="headerlink" title="20170501 V3.4"></a><code>20170501</code> V3.4</h3><ul><li>添加：背景图片可以以幻灯片的形式播放文件夹下所有图片</li><li>添加：背景颜色可更改</li><li>添加：可隐藏时间和说明文字，此种情况下可按Esc键短暂显示时间</li><li>添加：可隐藏桌面图标，只看桌面壁纸</li><li>添加：可隐藏鼠标指针</li><li>添加：系统无操作N分钟后可【关闭显示器】</li><li>添加：只能同时运行一个程序，防止程序多开</li><li>修复：无配置文件时自动加载默认配置</li><li>修复：开机第一次启动软件时动画效果无法显示的问题</li><li>修复：软件启动动画显示时偶尔会有卡顿的问题</li><li>修复：修改超级密码无操作后可直接按回车退出程序的问题</li><li>调整：部分功能不再支持XP系统</li><li>调整：【帮助】、【倒计时说明】颜色与时间颜色一致</li><li>调整：设置界面UI</li><li>其它Bug修改</li></ul><hr><h3 id="20161029-V3-3-1"><a href="#20161029-V3-3-1" class="headerlink" title="20161029 V3.3.1"></a><code>20161029</code> V3.3.1</h3><ul><li>优化代码，修复在某些时间格式下只显示“上午”、“下午”不显示时间的问题</li><li>修复：此版本开始程序可以自动获取焦点</li><li>修复：在相当复杂的操作步骤后可以通过某些方式关闭程序的问题</li></ul><hr><h3 id="20161023-V3-3"><a href="#20161023-V3-3" class="headerlink" title="20161023 V3.3"></a><code>20161023</code> V3.3</h3><ul><li>解决2个BUG：</li><li>某些情况下能直接关闭程序的问题</li><li>某些操作步骤后可以直接关闭程序的问题</li></ul><hr><h3 id="20161019-V3-2"><a href="#20161019-V3-2" class="headerlink" title="20161019 V3.2"></a><code>20161019</code> V3.2</h3><ul><li><p>添加背景图片支持（背景图片支持设置透明度）</p><p>​    - <strong>友情提示:</strong> 背景图片用好的话非常漂亮，图片如果不匹配就是坑</p></li><li><p>设置界面UI样式优化，更养眼（可更改主题）</p></li><li><p>修复颜色选择时，点击【取消】后颜色自动变成黑色的问题</p></li><li><p>修复程序启动动画完成后会卡顿的问题</p></li><li><p>修复Ctrl+↑增加透明度、Ctrl+↓降低透明度时丢失部分设置信息的问题</p></li><li><p>更改加密方式<strong>提高安全性</strong></p></li><li><p>删除从V1.0版就存在的<strong>调试</strong>密码</p></li><li><p>其它BUG修复</p></li><li><p>下一个版本V3.3：主要实现屏保功能</p></li></ul><h3 id="20160703-V3-1"><a href="#20160703-V3-1" class="headerlink" title="20160703 V3.1"></a><code>20160703</code> V3.1</h3><ul><li>修复<code>非win10系统</code>中任务管理器无法禁用的问题</li><li>添加功能：隐藏<code>【帮助】</code>按钮，界面看起来更清爽。感谢网友<code>霍增光</code>及<code>倘徉湖畔</code>的建议</li><li>添加功能：程序失去焦点事件的处理</li><li><code>显示</code>超级密码时<code>奇数位</code>使用掩码，别人站在身后也不怕超级密码被偷看</li><li>修复Ctrl+↑增加透明度、Ctrl+↓降低透明度无响应的问题</li><li>修复3.0版中自启动的快捷方式名称错乱的问题（3.0版为xyzlock.lnk，3.1及以后统一为xxxlock.lnk）</li></ul><hr><h3 id="20160609-V3-0"><a href="#20160609-V3-0" class="headerlink" title="20160609 V3.0"></a><code>20160609</code> V3.0</h3><ul><li>完全重写代码</li><li>更名为 <code>xxx时间屏保</code></li><li><strong>回车键</strong>功能：清除密码、确认密码</li></ul><hr><h3 id="20151027-V2-0"><a href="#20151027-V2-0" class="headerlink" title="20151027 V2.0"></a><code>20151027</code> V2.0</h3><ul><li>增加功能：锁屏界面直接关机命令，请在设置中修改命令</li><li>增加功能：锁屏界面直接休眠命令，请在设置中修改命令</li><li>增加功能：电脑N分钟无操作后可自动关机或休眠</li><li>增加功能：Ctrl+↑增加透明度、Ctrl+↓降低透明度</li><li>增加功能：时间和显示文字可自定义颜色</li><li><strong>完全重写<code>透明度</code>相关代码，效率更高，看起来更美观</strong></li><li>重新设计配置文件格式，使之更安全更高效</li><li>修复了设置界面透明度与偏移值无法调整到某些数值的问题</li><li>修复了输入法自动变为英文的BUG</li><li>添加官方网站信息</li><li>其它更改</li></ul><hr><h3 id="20150720-V1-3"><a href="#20150720-V1-3" class="headerlink" title="20150720 V1.3"></a><code>20150720</code> V1.3</h3><ul><li>增加程序只能运行一个实例的功能</li><li>优化密码输入位数动画</li><li>修复休眠/睡眠唤醒时时间不更新的问题</li></ul><hr><h3 id="20150716-V1-2"><a href="#20150716-V1-2" class="headerlink" title="20150716 V1.2"></a><code>20150716</code> V1.2</h3><ul><li>隐藏任务栏图标</li><li>完全重写随系统启动功能</li></ul><hr><h3 id="20150710-V1-1"><a href="#20150710-V1-1" class="headerlink" title="20150710 V1.1"></a><code>20150710</code> V1.1</h3><ul><li>增加密码输入位数提示</li><li>修复设置英文键盘布局失败的问题</li><li>启动程序时将输入法设置为英文输入法</li></ul><hr><h3 id="20140608-V1-0"><a href="#20140608-V1-0" class="headerlink" title="20140608 V1.0"></a><code>20140608</code> V1.0</h3><ul><li>测试完成，第一个版本正式发布</li></ul><h3 id="20131203"><a href="#20131203" class="headerlink" title="20131203"></a><code>20131203</code></h3><ul><li>开始编码</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 原创软件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> xXx软件 </tag>
+            
+            <tag> xXx时间屏保 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>邪书生隐私管家V1.0</title>
+      <link href="/xssSec.html"/>
+      <url>/xssSec.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><blockquote><p>邪书生隐私管家是一款由龙家二少编写的免费的<strong>跨平台</strong>文件加密工具，目前支持<strong>Windows</strong>、<strong>Android</strong>、<strong>Deepin</strong>、<strong>统信UOS</strong>、<strong>中兴新支点</strong>、<strong>Ubuntu</strong>等<strong>Linux</strong>系统。</p></blockquote><h2 id="软件用途"><a href="#软件用途" class="headerlink" title="软件用途"></a>软件用途</h2><ul><li><p>用于对机密的照片、视频、文件等加密。然后利用其它工具进行网络传输或上传到网盘，增强文件安全性。</p><h2 id="软件特点"><a href="#软件特点" class="headerlink" title="软件特点"></a>软件特点</h2></li><li><p>永久免费，拥有自主知识产权</p></li><li><p>绿色软件（Windows、Linux）</p></li><li><p><strong>跨平台</strong>支持Windows、Linux、Android</p></li><li><p>多文件支持</p></li><li><p>中文密码支持</p></li><li><p>文件拖放（Windows、Linux）</p></li><li><p>文件关联（Windows、Linux）</p></li><li><p><code>加密后的新文件后缀：.ljes</code></p><ul><li>将在待加密文件的相同目录生成同名的.ljes格式加密文件，<strong>软件不会删除原文件</strong></li></ul></li></ul><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><h3 id="Windows、Linux端"><a href="#Windows、Linux端" class="headerlink" title="Windows、Linux端"></a>Windows、Linux端</h3><p><img src="https://pic.jitudisk.com/public/2022/08/27/36215e71c562e.png"></p><h3 id="Android端"><a href="#Android端" class="headerlink" title="Android端"></a>Android端</h3><p><img src="https://pic.jitudisk.com/public/2022/08/27/bcbd6543a3b00.png"></p><p><img src="https://pic.jitudisk.com/public/2022/08/27/a28d12314a79a.png"></p><p><img src="https://pic.jitudisk.com/public/2022/08/27/9d04f2e80e161.png"></p><h2 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h2><ul><li><p><strong>Windows、Linux端</strong></p><ul><li>拖动或使用“添加文件”、“添加文件夹”按钮将文件加载进文件列表，然后输入密码后进行加密或解密</li><li>Linux端直接点击“邪书生隐私管家”打开软件</li><li>中兴新支点操作系统首次执行错误解决：右击“邪书生隐私管家”，选择“属性”，勾选“使文件可执行”</li><li>Ubuntu首次执行错误解决：右击“邪书生隐私管家”，选择“属性”，勾选“允许执行文件”</li><li><strong>Windows关联ljes文件方式</strong>：右击任意ljes格式文件，选择“属性”–&gt;“打开方式”–&gt;”更改“，选择邪书生隐私管家.exe，<strong>之后就可以通过双击任意的.ljes后缀文件打开本软件</strong></li></ul></li><li><p><strong>Android端</strong></p><ul><li>首次使用将弹出获取文件夹权限窗口，请点击允许</li><li>首页右下角<strong>“+”</strong>号按钮添加文件（可多选）</li><li>文件列表左上角<strong>“&lt;”</strong>按钮可返回上级目录</li><li>文件列表右下角<strong>“√”</strong>按钮确认选择</li><li>文件列表右上角<strong>“X”</strong>按钮取消选择</li><li>点击首页右上角<strong>锁形图标</strong>弹出密码输入窗口，选择“解密”或“加密”按钮进行操作</li><li><strong>Android平台为防止返回键中断加密或解密过程，只能通过手机【home】键退出程序</strong></li></ul></li></ul><h2 id="其它问题"><a href="#其它问题" class="headerlink" title="其它问题"></a>其它问题</h2><ul><li>Android平台仅提供64位架构arm64-v8a的APK格式安装包</li><li>如需要新型AAB格式安装包，请邮件联系作者：<a href="mailto:&#97;&#100;&#x6d;&#x69;&#110;&#x40;&#117;&#x6e;&#x36;&#57;&#x2e;&#x63;&#x63;">&#97;&#100;&#x6d;&#x69;&#110;&#x40;&#117;&#x6e;&#x36;&#57;&#x2e;&#x63;&#x63;</a></li></ul><h2 id="软件下载"><a href="#软件下载" class="headerlink" title="软件下载"></a>软件下载</h2><ul><li>网盘下载：<a href="https://ljes.lanzouy.com/b03p8h1rc">蓝奏云</a>    密码:5s15</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 原创软件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 邪书生隐私管家 </tag>
+            
+            <tag> 邪书生软件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>xXx时间屏保 V3.8</title>
+      <link href="/xXxLock38.html"/>
+      <url>/xXxLock38.html</url>
+      
+        <content type="html"><![CDATA[<h3 id="更新记录"><a href="#更新记录" class="headerlink" title="更新记录"></a>更新记录</h3><p><a href="http://www.un69.cc/xxxlockhistory">xXx时间屏保更新记录</a></p><h3 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h3><ul><li><a href="http://www.un69.cc/">龙家二少</a>编写的Windows屏保软件</li><li>一款会变化密码的纯绿色安全锁屏软件</li><li>酷炫的3D效果</li></ul><hr><ul><li>如果您要离开电脑而又不想别人使用，仲么办？</li><li>使用Windows+L键锁屏？</li><li>同事每用一次电脑就改一次密码？</li><li>使用xXx时间屏保吧，密码会变化，放心的告诉别人你的当前密码吧骚年！</li></ul><hr><h3 id="软件说明"><a href="#软件说明" class="headerlink" title="软件说明"></a>软件说明</h3><ul><li>由于使用了UPX对程序进行压缩，某些电脑上360可能会报毒，请加入白名单放心使用！</li></ul><h3 id="解锁说明"><a href="#解锁说明" class="headerlink" title="解锁说明"></a>解锁说明</h3><p>1、时间带有<code>~~**删除线**~~</code>：此时需要点击鼠标获取焦点，否则无法接受输入命令<br>2、时间是**<em>斜体**</em>：表示正在输入，可以按回车键确认命令，命令错误会自动清空以便重新输入</p><h3 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h3><p><img src="https://ae03.alicdn.com/kf/H52f66202abd04f49a7f31f111e4e9893r.png" alt="高级设置.png"><br><img src="https://ae05.alicdn.com/kf/H989391b28fe04459bfc6d425e75bf3cay.png" alt="基础设置.png"><br><img src="https://ae03.alicdn.com/kf/Hfc13f96aab8947de8f5d4091ff3b48879.png" alt="锁屏界面带背景图像.png"><br><img src="https://ae01.alicdn.com/kf/Ha77fa5b31d2741afac2a6228fb16071fC.png" alt="文字动画之随机汉字.gif"></p><p><img src="https://ae03.alicdn.com/kf/H9719b66153e0498185a48954ac779ef37.png" alt="水波动画.gif"></p><h3 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h3><p><a href="https://share.weiyun.com/ts5iNC89">腾讯微云下载地址</a></p><h3 id="注意："><a href="#注意：" class="headerlink" title="注意："></a>注意：</h3><ul><li>本软件需要.net4.7.2支持，<a href="https://dotnet.microsoft.com/download/dotnet-framework/net472">win7及XP系统点我跳转到微软官方下载Runtime</a></li><li>精简版系统可能也需要先安装.net4.7.2</li></ul><h3 id="常见问题"><a href="#常见问题" class="headerlink" title="常见问题"></a>常见问题</h3><h4 id="问：为什么360等安全软件会报毒"><a href="#问：为什么360等安全软件会报毒" class="headerlink" title="问：为什么360等安全软件会报毒"></a>问：为什么360等安全软件会报毒</h4><ul><li>因为软件会屏蔽Alt+F4、WIN键、防止任务管理器的打开、接收键盘输入（仅本程序内接收命令和密码）等敏感操作，故而会被360等安全软件报毒。如果不放心可以在腾讯哈勃分析系统试试，保证无毒！</li></ul><h4 id="问：软件无法使用"><a href="#问：软件无法使用" class="headerlink" title="问：软件无法使用"></a>问：软件无法使用</h4><ul><li>本软件需要.NET Framework4.7.2支持，win7及XP系统请自行百度</li><li>精简版win8及以上系统可能也需要先安装.NET Framework4.7.2</li></ul><h4 id="问：设置随系统启动失败"><a href="#问：设置随系统启动失败" class="headerlink" title="问：设置随系统启动失败"></a>问：设置随系统启动失败</h4><ul><li>这个是因为软件要向系统启动目录（位于C盘）写入快捷方式，然后您的电脑上的XX卫士或者XX管家不允许造成的！</li><li>可以手动设置快捷方式到启动目录或者关闭XX卫士、XX管家后再设置，设置完成后就可以打开这些个卫士管家了</li></ul><h4 id="问：如何只查看壁纸不看桌面图标"><a href="#问：如何只查看壁纸不看桌面图标" class="headerlink" title="问：如何只查看壁纸不看桌面图标"></a>问：如何只查看壁纸不看桌面图标</h4><ul><li>在基础设置里勾选【隐藏桌面图标】和【最小化所有窗口】</li></ul><h4 id="问：可以以幻灯片的形式播放文件夹下的图片吗？"><a href="#问：可以以幻灯片的形式播放文件夹下的图片吗？" class="headerlink" title="问：可以以幻灯片的形式播放文件夹下的图片吗？"></a>问：可以以幻灯片的形式播放文件夹下的图片吗？</h4><ul><li>可以，在高级设置里设置背景图片及透明度即可</li></ul><h4 id="问：不想看到帮助及锁屏文字怎么办？"><a href="#问：不想看到帮助及锁屏文字怎么办？" class="headerlink" title="问：不想看到帮助及锁屏文字怎么办？"></a>问：不想看到帮助及锁屏文字怎么办？</h4><ul><li>在基础设置里勾选【是否隐藏帮助】及【是否隐藏时间与锁屏文字】即可。隐藏后按Esc键短时显示时间及文字</li></ul><h4 id="问：什么时候能作为屏保使用而无需手动启动？"><a href="#问：什么时候能作为屏保使用而无需手动启动？" class="headerlink" title="问：什么时候能作为屏保使用而无需手动启动？"></a>问：什么时候能作为屏保使用而无需手动启动？</h4><ul><li>预计下一个版本实现</li></ul><h4 id="问：为什么自定义浮动动画显示时是乱码？"><a href="#问：为什么自定义浮动动画显示时是乱码？" class="headerlink" title="问：为什么自定义浮动动画显示时是乱码？"></a>问：为什么自定义浮动动画显示时是乱码？</h4><ul><li>文字动画.txt文件需要是UTF-8编码才行（使用记事本打开【文字动画.txt】 –&gt;另存为–&gt;右下角编码里选择UTF-8–&gt;保存）。</li></ul><h4 id="问：可以不安装字体而直接使用ttf字体文件吗？"><a href="#问：可以不安装字体而直接使用ttf字体文件吗？" class="headerlink" title="问：可以不安装字体而直接使用ttf字体文件吗？"></a>问：可以不安装字体而直接使用ttf字体文件吗？</h4><ul><li>可以。将ttf字体文件放入font目录，之后就可以在高级设置里选择字体了</li></ul><h4 id="问：软件会收费吗？"><a href="#问：软件会收费吗？" class="headerlink" title="问：软件会收费吗？"></a>问：软件会收费吗？</h4><ul><li>软件会永久免费</li></ul><h4 id="问：软件会停止更新吗？"><a href="#问：软件会停止更新吗？" class="headerlink" title="问：软件会停止更新吗？"></a>问：软件会停止更新吗？</h4><ul><li>软件是自用软件，会一直不定时更新</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 原创软件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> xXx软件 </tag>
+            
+            <tag> xXx时间屏保 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>xXxMiniPdf</title>
+      <link href="/pdfpassword.html"/>
+      <url>/pdfpassword.html</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>最近发现本年度的政治考试复习资料居然加了<em>打印限制</em>，本着人道主义精神，龙家二少特编写此mini软件解放生产力，以后只敢中午出门了，要不早晚被资料作者打^_^</p></blockquote><h3 id="软件功能"><a href="#软件功能" class="headerlink" title="软件功能"></a>软件功能</h3><ul><li><p><strong>去除PDF打印限制</strong></p></li><li><p>因功能过于单一，未添加可视化界面</p></li></ul><h3 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h3><p><img src="https://i.loli.net/2021/04/21/zgU9N837V2oQB5G.png" alt="pdfnopassword.png"></p><h3 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h3><p><a href="https://share.weiyun.com/N1Ibho8W">pdf去除打印限制</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 原创软件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> xXxMiniPdf </tag>
+            
+            <tag> xXx软件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>xXx隐私助手2</title>
+      <link href="/xXxED2.html"/>
+      <url>/xXxED2.html</url>
+      
+        <content type="html"><![CDATA[<h3 id="软件功能"><a href="#软件功能" class="headerlink" title="软件功能"></a>软件功能</h3><ul><li>加密<code>任意大小</code>、<code>任意类型</code>的文件</li><li>保护你的隐私图片、视频、文档</li><li>保护你的合同、计划书即使被窃取也无法查看原文内容</li><li>保护你的工作、商业机密</li><li>保护你不想让别人看见的任何资料</li></ul><h3 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h3><ul><li><h5 id="主界面"><a href="#主界面" class="headerlink" title="主界面"></a>主界面</h5></li></ul><p><img src="https://i.loli.net/2020/12/25/zXL9x475y2ZADmE.png" alt="xXx隐私助手2主界面.png"></p><h5 id="添加文件夹界面"><a href="#添加文件夹界面" class="headerlink" title="添加文件夹界面"></a>添加文件夹界面</h5><p><img src="https://i.loli.net/2020/12/25/PDyWnFf52Z9CBMw.png" alt="xXx隐私助手2添加文件夹界面.png"></p><h5 id="关联文件"><a href="#关联文件" class="headerlink" title="关联文件"></a>关联文件</h5><p><img src="https://i.loli.net/2020/12/25/bG35P9XFKZBxhOp.png" alt="xXx隐私助手2关联设置.png"></p><h3 id="软件特点"><a href="#软件特点" class="headerlink" title="软件特点"></a>软件特点</h3><ul><li>无广告、无后门、不流氓、绿色环保无污染、永久免费</li><li>操作简单，极易上手</li><li>支持拖放文件到列表（暂不支持拖放文件夹）</li><li>可关联un69cc格式的隐私文件</li><li><strong>文件加密</strong>：<ul><li>使用AES加密算法，理论上无法破解</li><li>文件批量加密、解密，可单选某文件夹下所有类型文件或任意几种自定义类型文件</li><li>多功能按钮，比如删除按钮拥有2个功能</li><li><del>加密后的文件名可随机重命名，隐私保护更给力</del></li><li><del>在不解密文件的情况下批量查看列表里所有文件的原始文件名</del></li></ul></li></ul><h3 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h3><ul><li>文件加密：拖入文件（选择文件/文件夹）–&gt;输入密码–&gt;加密（解密）</li></ul><h3 id="更新历史"><a href="#更新历史" class="headerlink" title="更新历史"></a>更新历史</h3><h5 id="20201225-V2-0"><a href="#20201225-V2-0" class="headerlink" title="20201225 V2.0"></a>20201225 V2.0</h5><ul><li>因第一版功能存在缺陷，本版本完全重写代码</li><li>因算法改变，故不兼容第一版的加密文件</li></ul><h3 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h3><ul><li>使用前请一定将本软件加入到安全软件白名单或信任列表，否则有可能造成个别文件无法解密</li><li>本软件采用的是AES高强度加密算法，并且全字符加密，程序及文件本身不存储密码，所以安全性比较高</li><li>考虑安全因素，加密文件时使用全字符加密，所以对超过500M的文件加密时相对耗时，但都能接受</li><li>因为是自用软件，所以能保证有大的问题会得到修复</li><li>问题反馈：<a href="mailto:&#97;&#x64;&#109;&#x69;&#110;&#64;&#x75;&#110;&#x36;&#x39;&#x2e;&#99;&#x63;">&#97;&#x64;&#109;&#x69;&#110;&#64;&#x75;&#110;&#x36;&#x39;&#x2e;&#99;&#x63;</a></li></ul><h3 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h3><p><a href="https://eyun.baidu.com/s/3cO3uwA">百度企业网盘下载</a><br><a href="https://share.weiyun.com/uoSwu3lf">微云下载</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 原创软件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> xXx软件 </tag>
+            
+            <tag> xXx隐私助手2 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>xXx图片助手 V3.0</title>
+      <link href="/xXxImageV3.html"/>
+      <url>/xXxImageV3.html</url>
+      
+        <content type="html"><![CDATA[<h3 id="软件功能"><a href="#软件功能" class="headerlink" title="软件功能"></a>软件功能</h3><ul><li><strong>批量压缩图片</strong>（可限定图片体积）</li><li><strong>批量处理图片尺寸</strong></li><li><strong>批量转换图片格式</strong>（jpg、png、ico、webp）</li><li>绿色、免费</li><li>支持拖放添加图片</li><li>支持更改图片 <strong>dpi</strong></li><li>支持以毫米为单位</li><li>支持并行操作</li><li>支持Liunx（包括国产深度Deepin、UOS系统）、Unix系统—&gt;<strong>待发布</strong></li></ul><h3 id="更新历史"><a href="#更新历史" class="headerlink" title="更新历史"></a>更新历史</h3><ul><li>为了使本软件能跨平台运行，3.0版本使用Python语言完全重写</li></ul><h3 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h3><h3 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h3><ul><li><a href="https://eyun.baidu.com/s/3bqbY5nL">百度企业云</a></li><li><a href="https://share.weiyun.com/tzJuhXh5">微云</a></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 原创软件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> xXx软件 </tag>
+            
+            <tag> xXx图片助手 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>简单几步解决Win10系统不能拖放文件的问题</title>
+      <link href="/win10dragfile.html"/>
+      <url>/win10dragfile.html</url>
+      
+        <content type="html"><![CDATA[<h3 id="第一步"><a href="#第一步" class="headerlink" title="第一步"></a>第一步</h3><ul><li>在任意位置新建文本文件（.txt）并打开</li></ul><h3 id="第二步"><a href="#第二步" class="headerlink" title="第二步"></a>第二步</h3><ul><li>复制并粘贴以下3行代码到刚建立的txt文件中：</li></ul><pre class=" language-ini"><code class="language-ini">Windows Registry Editor Version 5.00<span class="token selector">[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System]</span><span class="token constant">"EnableLUA"</span><span class="token attr-value"><span class="token punctuation">=</span>dword:00000000</span></code></pre><h3 id="第三步"><a href="#第三步" class="headerlink" title="第三步"></a>第三步</h3><ul><li>文件-&gt;另存为：在保存类型中选择<code>所有文件(*.*)</code>，然后保存为reg格式文件，如：a.reg</li></ul><h3 id="第四步"><a href="#第四步" class="headerlink" title="第四步"></a>第四步</h3><ul><li>双击刚保存的reg格式文件，确定。</li><li>删除刚新建的文本文件和另存的reg格式文件。</li><li>重启电脑，enjoy yourself！</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 原创教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> win10故障 </tag>
+            
+            <tag> 文件拖放 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>利用Python将Excel文件转换为sqlite数据库文件</title>
+      <link href="/excel2sdb.html"/>
+      <url>/excel2sdb.html</url>
+      
+        <content type="html"><![CDATA[<ul><li> 最近想将Excel文件转换为sqlite数据库文件，网上有一大堆Python代码，但都过于冗余，二少原创利用pandas库只需要几行代码将Excel格式转换为sqlite格式。</li></ul><pre class=" language-python"><code class="language-python"><span class="token keyword">import</span>  pandas  <span class="token keyword">as</span> pd<span class="token keyword">import</span> sqlite3 <span class="token keyword">as</span> db<span class="token comment" spellcheck="true">#如果某列中有开头为0的数字字符串，则需要添加参数  converters=&amp;#123;'开头是0的列名':str&amp;#125;</span>df<span class="token operator">=</span>pd<span class="token punctuation">.</span>read_excel<span class="token punctuation">(</span><span class="token string">'学生成绩.xls'</span><span class="token punctuation">,</span>sheet_name<span class="token operator">=</span><span class="token string">'一班'</span><span class="token punctuation">)</span> <span class="token keyword">with</span> db<span class="token punctuation">.</span>connect<span class="token punctuation">(</span><span class="token string">'test.sdb'</span><span class="token punctuation">)</span> <span class="token keyword">as</span> con<span class="token punctuation">:</span>        <span class="token keyword">try</span><span class="token punctuation">:</span>        df<span class="token punctuation">.</span>to_sql<span class="token punctuation">(</span>name <span class="token operator">=</span> <span class="token string">'yibancj'</span><span class="token punctuation">,</span> con <span class="token operator">=</span> con<span class="token punctuation">,</span> if_exists<span class="token operator">=</span><span class="token string">'replace'</span><span class="token punctuation">,</span> index <span class="token operator">=</span> None<span class="token punctuation">)</span>        <span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">'转换成功'</span><span class="token punctuation">)</span>        <span class="token keyword">except</span> Exception <span class="token keyword">as</span> e<span class="token punctuation">:</span>        <span class="token keyword">print</span><span class="token punctuation">(</span>f<span class="token string">'转换出错，原因为：&amp;#123;e.args&amp;#125;'</span><span class="token punctuation">)</span></code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> 原创教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Python </tag>
+            
+            <tag> 数据库 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>xXx时间屏保 V3.7</title>
+      <link href="/xXxLock37.html"/>
+      <url>/xXxLock37.html</url>
+      
+        <content type="html"><![CDATA[<h3 id="更新记录"><a href="#更新记录" class="headerlink" title="更新记录"></a>更新记录</h3><p><a href="http://www.un69.cc/xxxlockhistory">xXx时间屏保更新记录</a></p><h3 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h3><ul><li><a href="http://www.un69.cc/">龙家二少</a>编写的Windows屏保软件</li><li>一款会随着时间变化密码的纯绿色安全锁屏软件</li><li>酷炫的3D效果界面</li></ul><hr><ul><li>如果您要离开电脑而又不想别人使用，仲么办？</li><li>使用Windows+L键锁屏？</li><li>同事每用一次电脑就改一次密码？</li><li>使用xXx时间屏保吧，密码会变化，放心的告诉别人你的当前密码吧骚年！</li></ul><hr><h3 id="软件说明"><a href="#软件说明" class="headerlink" title="软件说明"></a>软件说明</h3><ul><li>由于使用了UPX对程序进行压缩，某些电脑上360可能会报毒，请加入白名单放心使用！</li></ul><h3 id="解锁说明"><a href="#解锁说明" class="headerlink" title="解锁说明"></a>解锁说明</h3><p>1、时间带有<code>~~**删除线**~~</code>：此时需要点击鼠标获取焦点，否则无法接受输入命令<br>2、时间是**<em>斜体**</em>：表示正在输入，可以按回车键确认命令，命令错误会自动清空以便重新输入</p><h3 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h3><p><img src="https://raw.githubusercontent.com/chineselzh/MyPhoto/master/MyWebsite/xXx%E6%97%B6%E9%97%B4%E5%B1%8F%E4%BF%9D3.7%E4%B8%BB%E7%95%8C%E9%9D%A2.png" alt="https://raw.githubusercontent.com/chineselzh/MyPhoto/master/MyWebsite/xXx%E6%97%B6%E9%97%B4%E5%B1%8F%E4%BF%9D3.7%E4%B8%BB%E7%95%8C%E9%9D%A2.png" title="xXx时间屏保 V3.7"></p><p>锁屏主界面  </p><p><img src="https://raw.githubusercontent.com/chineselzh/MyPhoto/master/MyWebsite/%E6%B5%AE%E5%8A%A8%E5%8A%A8%E7%94%BB%E4%B9%8B%E6%95%B0%E5%AD%97%E5%AD%97%E6%AF%8D.gif" alt="https://raw.githubusercontent.com/chineselzh/MyPhoto/master/MyWebsite/%E6%B5%AE%E5%8A%A8%E5%8A%A8%E7%94%BB%E4%B9%8B%E6%95%B0%E5%AD%97%E5%AD%97%E6%AF%8D.gif" title="xXx时间屏保 V3.7"></p><p>3.7新功能：浮动动画之随机字母数字</p><p><img src="https://raw.githubusercontent.com/chineselzh/MyPhoto/master/MyWebsite/%E6%B5%AE%E5%8A%A8%E5%8A%A8%E7%94%BB%E4%B9%8B%E9%9A%8F%E6%9C%BA%E6%B1%89%E5%AD%97.gif" alt="https://raw.githubusercontent.com/chineselzh/MyPhoto/master/MyWebsite/%E6%B5%AE%E5%8A%A8%E5%8A%A8%E7%94%BB%E4%B9%8B%E9%9A%8F%E6%9C%BA%E6%B1%89%E5%AD%97.gif" title="xXx时间屏保 V3.7"></p><p>3.7新功能：浮动动画之随机汉字</p><p><img src="https://raw.githubusercontent.com/chineselzh/MyPhoto/master/MyWebsite/%E6%B5%AE%E5%8A%A8%E5%8A%A8%E7%94%BB%E4%B9%8B%E8%87%AA%E5%AE%9A%E4%B9%89.gif" alt="https://raw.githubusercontent.com/chineselzh/MyPhoto/master/MyWebsite/%E6%B5%AE%E5%8A%A8%E5%8A%A8%E7%94%BB%E4%B9%8B%E8%87%AA%E5%AE%9A%E4%B9%89.gif" title="xXx时间屏保 V3.7"></p><p>3.7新功能：浮动动画之自定义文字</p><p><img src="https://raw.githubusercontent.com/chineselzh/MyPhoto/master/MyWebsite/xXx%E6%97%B6%E9%97%B4%E5%B1%8F%E4%BF%9D3.7%E5%B8%AE%E5%8A%A9.png" alt="https://raw.githubusercontent.com/chineselzh/MyPhoto/master/MyWebsite/xXx%E6%97%B6%E9%97%B4%E5%B1%8F%E4%BF%9D3.7%E5%B8%AE%E5%8A%A9.png" title="xXx时间屏保 V3.7"></p><p>3.7帮助</p><p><img src="https://raw.githubusercontent.com/chineselzh/MyPhoto/master/MyWebsite/xXx%E6%97%B6%E9%97%B4%E5%B1%8F%E4%BF%9D3.7%E5%9F%BA%E7%A1%80%E8%AE%BE%E7%BD%AE.png" alt="https://raw.githubusercontent.com/chineselzh/MyPhoto/master/MyWebsite/xXx%E6%97%B6%E9%97%B4%E5%B1%8F%E4%BF%9D3.7%E5%9F%BA%E7%A1%80%E8%AE%BE%E7%BD%AE.png" title="xXx时间屏保 V3.7"></p><p>3.7基础设置</p><p><img src="https://raw.githubusercontent.com/chineselzh/MyPhoto/master/MyWebsite/xXx%E6%97%B6%E9%97%B4%E5%B1%8F%E4%BF%9D3.7%E9%AB%98%E7%BA%A7%E8%AE%BE%E7%BD%AE.png" alt="https://raw.githubusercontent.com/chineselzh/MyPhoto/master/MyWebsite/xXx%E6%97%B6%E9%97%B4%E5%B1%8F%E4%BF%9D3.7%E9%AB%98%E7%BA%A7%E8%AE%BE%E7%BD%AE.png" title="xXx时间屏保 V3.7"></p><p>3.7高级设置</p><h3 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h3><ul><li><a href="https://eyun.baidu.com/s/3i6LME49">百度企业网盘</a>密码：g8sg</li><li><a href="https://share.weiyun.com/5RvcWZz">微云</a></li></ul><h3 id="注意："><a href="#注意：" class="headerlink" title="注意："></a>注意：</h3><ul><li>本软件需要.net4.0支持，<a href="http://www.microsoft.com/zh-cn/download/details.aspx?id=17718">win7及XP系统点我跳转到微软官方下载</a></li><li>精简版系统可能也需要先安装.net4</li></ul><h3 id="常见问题"><a href="#常见问题" class="headerlink" title="常见问题"></a>常见问题</h3><h4 id="问：为什么360等安全软件会报毒"><a href="#问：为什么360等安全软件会报毒" class="headerlink" title="问：为什么360等安全软件会报毒"></a>问：为什么360等安全软件会报毒</h4><ul><li>因为软件会屏蔽Alt+F4、WIN键、防止任务管理器的打开、接收键盘输入（仅本程序内接收命令和密码）等敏感操作，故而会被360等安全软件报毒。如果不放心可以在腾讯哈勃分析系统试试，保证无毒！</li></ul><h4 id="问：软件无法使用"><a href="#问：软件无法使用" class="headerlink" title="问：软件无法使用"></a>问：软件无法使用</h4><ul><li>本软件需要.NET Framework4.0支持，win7及XP系统请自行百度</li><li>精简版win8及以上系统可能也需要先安装.NET Framework4.0</li></ul><h4 id="问：设置随系统启动失败"><a href="#问：设置随系统启动失败" class="headerlink" title="问：设置随系统启动失败"></a>问：设置随系统启动失败</h4><ul><li>这个是因为软件要向系统启动目录（位于C盘）写入快捷方式，然后您的电脑上的XX卫士或者XX管家不允许造成的！</li><li>可以手动设置快捷方式到启动目录或者关闭XX卫士、XX管家后再设置，设置完成后就可以打开这些个卫士管家了</li></ul><h4 id="问：如何只查看壁纸不看桌面图标"><a href="#问：如何只查看壁纸不看桌面图标" class="headerlink" title="问：如何只查看壁纸不看桌面图标"></a>问：如何只查看壁纸不看桌面图标</h4><ul><li>在基础设置里勾选【隐藏桌面图标】和【最小化所有窗口】</li></ul><h4 id="问：可以以幻灯片的形式播放文件夹下的图片吗？"><a href="#问：可以以幻灯片的形式播放文件夹下的图片吗？" class="headerlink" title="问：可以以幻灯片的形式播放文件夹下的图片吗？"></a>问：可以以幻灯片的形式播放文件夹下的图片吗？</h4><ul><li>可以，在高级设置里设置背景图片及透明度即可</li></ul><h4 id="问：不想看到帮助及锁屏文字怎么办？"><a href="#问：不想看到帮助及锁屏文字怎么办？" class="headerlink" title="问：不想看到帮助及锁屏文字怎么办？"></a>问：不想看到帮助及锁屏文字怎么办？</h4><ul><li>在基础设置里勾选【是否隐藏帮助】及【是否隐藏时间与锁屏文字】即可。隐藏后按Esc键短时显示时间及文字</li></ul><h4 id="问：什么时候能作为屏保使用而无需手动启动？"><a href="#问：什么时候能作为屏保使用而无需手动启动？" class="headerlink" title="问：什么时候能作为屏保使用而无需手动启动？"></a>问：什么时候能作为屏保使用而无需手动启动？</h4><ul><li>预计下一个版本实现</li></ul><h4 id="问：为什么自定义浮动动画显示时是乱码？"><a href="#问：为什么自定义浮动动画显示时是乱码？" class="headerlink" title="问：为什么自定义浮动动画显示时是乱码？"></a>问：为什么自定义浮动动画显示时是乱码？</h4><ul><li>文字动画.txt文件需要是UTF-8编码才行（使用记事本打开【文字动画.txt】 –&gt;另存为–&gt;右下角编码里选择UTF-8–&gt;保存）。</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 原创软件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> xXx软件 </tag>
+            
+            <tag> xXx时间屏保 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>xXx方块测试版</title>
+      <link href="/xXxExcel.html"/>
+      <url>/xXxExcel.html</url>
+      
+        <content type="html"><![CDATA[<ul><li><p>xXx方块：一款同时<code>兼容</code>Excel与WPS表格的高级办公插件，让你从此告别加班</p></li><li><p>如果您觉得某些实用功能缺失，请发邮件<code>admin@un69.cc</code>反馈，但不一定增加^_^</p></li></ul><h3 id="特点："><a href="#特点：" class="headerlink" title="特点："></a>特点：</h3><ul><li>支持WPS表格、Excel2010-Excel2020</li><li>支持Win7及以上系统</li><li>支持32位与64位Excel</li></ul><blockquote><p>理论上支持Excel2007，但某些电脑无法安装成功</p></blockquote><h3 id="说明："><a href="#说明：" class="headerlink" title="说明："></a>说明：</h3><ul><li>插件安装后会自动在Excel与WPS表格的工具栏上添加一个标签页</li><li>此插件对经常处理excel表格的表哥表姐来说非常有用</li><li>具体效果请看图：</li></ul><h3 id="20180501测试版下载地址："><a href="#20180501测试版下载地址：" class="headerlink" title="20180501测试版下载地址："></a><code>20180501测试版</code>下载地址：</h3><p><a href="https://pan.lanzou.com/i0y3keb">蓝奏云下载</a></p><h3 id="动态预览图"><a href="#动态预览图" class="headerlink" title="动态预览图"></a>动态预览图</h3><ul><li>重点功能之身份证模块：包括身份证号码批量校验、提取身份证相关信息</li></ul><p><img src="https://i.loli.net/2019/05/01/5cc916e47e3ff.gif" alt="https://i.loli.net/2019/05/01/5cc916e47e3ff.gif" title="xXx方块"></p><ul><li>重点功能之批量超级查找：可跨工作表、跨工作簿；支持逆向查找</li></ul><p><img src="https://i.loli.net/2019/05/01/5cc9170e70adc.gif" alt="https://i.loli.net/2019/05/01/5cc9170e70adc.gif" title="xXx方块"></p><ul><li>重点功能之拆分工作表：拆分工作表，将某一列中的信息以唯一值的方式拆分</li></ul><p><img src="https://i.loli.net/2019/05/01/5cc9172c10ce1.gif" alt="https://i.loli.net/2019/05/01/5cc9172c10ce1.gif" title="xXx方块"></p><ul><li>重点功能之聚光灯与超级隐藏：对比数据的超级利器，隐藏数据的不二法宝</li></ul><p><img src="https://i.loli.net/2019/05/01/5cc9172c9b68a.gif" alt="https://i.loli.net/2019/05/01/5cc9172c9b68a.gif" title="xXx方块"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 原创软件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> xXx软件 </tag>
+            
+            <tag> xXx方块 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>xXx隐私助手 V1.0</title>
+      <link href="/xXxED.html"/>
+      <url>/xXxED.html</url>
+      
+        <content type="html"><![CDATA[<h3 id="软件功能"><a href="#软件功能" class="headerlink" title="软件功能"></a>软件功能</h3><ul><li>加密<code>任意大小</code>、<code>任意类型</code>的文件和文字</li><li>保护你的隐私图片、视频</li><li>保护你的合同、计划书即使被窃取也无法查看原文件内容</li><li>保护你的工作、商业机密文件</li><li>保护你不想让别人看见的任何文件</li></ul><h3 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h3><p><img src="https://i.loli.net/2019/05/01/5cc94b7d842dd.png" alt="https://i.loli.net/2019/05/01/5cc94b7d842dd.png" title="xXx隐私助手1.0"></p><ul><li>文件加密</li></ul><p><img src="https://i.loli.net/2019/05/01/5cc94b7d8044b.png" alt="https://i.loli.net/2019/05/01/5cc94b7d8044b.png" title="xXx隐私助手1.0"></p><ul><li>文本加密</li></ul><p><img src="https://i.loli.net/2019/05/01/5cc94b7d5a899.png" alt="https://i.loli.net/2019/05/01/5cc94b7d5a899.png" title="xXx隐私助手1.0"></p><ul><li>设置</li></ul><h3 id="软件特点"><a href="#软件特点" class="headerlink" title="软件特点"></a>软件特点</h3><ul><li>无广告、无后门、不流氓、绿色环保无污染、永久免费</li><li>操作简单，极易上手</li><li>两种文件加密模式：覆盖模式、备份模式</li><li>支持拖放文件到列表（暂不支持拖放文件夹）</li><li>可关联uxyz格式的隐私文件并 <strong>支持自定义uxyz格式图标</strong>（关联功能需以 <strong>管理员权限</strong>打开）</li><li><strong>文本加密</strong>：同一串字符使用同一密码，每次加密后的密文不同，但还原结果一样</li><li><strong>文件加密</strong>：<ul><li>使用AES加密算法，理论上无法破解</li><li>文件批量加密、解密，可单选某文件夹下所有类型文件或任意几种类型文件</li><li>多功能按钮，比如删除按钮拥有四个功能</li><li>加密后的文件名可随机重命名，隐私保护更给力</li><li>在不解密文件的情况下批量查看列表里所有文件的原始文件名</li></ul></li></ul><h3 id="模式区别"><a href="#模式区别" class="headerlink" title="模式区别"></a>模式区别</h3><ul><li><strong>覆盖模式</strong>：加密后的文件后缀 <strong>不会</strong>改变。比如你加密一个mp4格式的视频文件，加密后生成的还是mp4文件，只是播放的时候会提示视频文件已损坏无法播放，解密后可正常播放。其他类型的文件同理</li><li><strong>备份模式</strong>：生成一个uxyz后缀的文件，关联后可直接双击使用本软件打开，原文件可自动删除（需要勾选“【备份模式下】备份完成后删除源文件”）</li></ul><h3 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h3><ul><li>文件加密：拖入文件（选择文件/文件夹）–&gt;输入密码–&gt;加密（解密）</li><li>文本加密：输入文字（载入文本文件）–&gt;输入密码–&gt;加密（解密）</li></ul><h3 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h3><ul><li>使用前请一定将本软件加入到安全软件白名单或信任列表，否则有可能造成个别文件无法解密</li><li>本软件采用的是AES高强度加密算法，并且全字符加密，程序及文件本身不存储密码，所以安全性比较高</li><li>考虑安全因素，加密文件时使用全字符加密，所以对超过500M的文件加密时相对耗时，但都能接受</li><li>因为是自用软件，所以能保证一年至少更新一次</li><li>问题反馈：<a href="mailto:&#97;&#x64;&#109;&#x69;&#110;&#64;&#117;&#110;&#54;&#x39;&#x2e;&#x63;&#99;">&#97;&#x64;&#109;&#x69;&#110;&#64;&#117;&#110;&#54;&#x39;&#x2e;&#x63;&#99;</a></li></ul><h3 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h3><p><a href="https://eyun.baidu.com/s/3i53lYID">百度企业网盘下载</a><br><a href="https://share.weiyun.com/059b22f5818706019670cc2c1ceb5f62">微云下载</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 原创软件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> xXx软件 </tag>
+            
+            <tag> xXx隐私助手 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
