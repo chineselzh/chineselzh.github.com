@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="keywords" content="利用Python将Excel文件转换为sqlite数据库文件, xXx软件">
+    <meta name="keywords" content="xXx时间屏保 V4.1, xXx软件">
     <meta name="description" content="专注分享原创软件及原创文章">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
@@ -16,7 +16,7 @@
     <!-- Global site tag (gtag.js) - Google Analytics -->
 
 
-    <title>利用Python将Excel文件转换为sqlite数据库文件 | xXx软件</title>
+    <title>xXx时间屏保 V4.1 | xXx软件</title>
     <link rel="icon" type="image/png" href="/favicon.png">
 
     <link rel="stylesheet" type="text/css" href="/libs/awesome/css/all.css">
@@ -236,12 +236,12 @@
 
 
 
-<div class="bg-cover pd-header post-cover" style="background-image: url('/medias/featureimages/1.jpg')">
+<div class="bg-cover pd-header post-cover" style="background-image: url('/medias/featureimages/21.jpg')">
     <div class="container" style="right: 0px;left: 0px;">
         <div class="row">
             <div class="col s12 m12 l12">
                 <div class="brand">
-                    <h1 class="description center-align post-title">利用Python将Excel文件转换为sqlite数据库文件</h1>
+                    <h1 class="description center-align post-title">xXx时间屏保 V4.1</h1>
                 </div>
             </div>
         </div>
@@ -358,12 +358,12 @@
                     
                     <div class="article-tag">
                         
-                            <a href="/tags/Python/">
-                                <span class="chip bg-color">Python</span>
+                            <a href="/tags/xXx%E8%BD%AF%E4%BB%B6/">
+                                <span class="chip bg-color">xXx软件</span>
                             </a>
                         
-                            <a href="/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/">
-                                <span class="chip bg-color">数据库</span>
+                            <a href="/tags/xXx%E6%97%B6%E9%97%B4%E5%B1%8F%E4%BF%9D/">
+                                <span class="chip bg-color">xXx时间屏保</span>
                             </a>
                         
                     </div>
@@ -374,8 +374,8 @@
                     <div class="post-cate">
                         <i class="fas fa-bookmark fa-fw icon-category"></i>
                         
-                            <a href="/categories/%E5%8E%9F%E5%88%9B%E6%95%99%E7%A8%8B/" class="post-category">
-                                原创教程
+                            <a href="/categories/%E5%8E%9F%E5%88%9B%E8%BD%AF%E4%BB%B6/" class="post-category">
+                                原创软件
                             </a>
                         
                     </div>
@@ -387,7 +387,7 @@
                 
                 <div class="post-date info-break-policy">
                     <i class="far fa-calendar-minus fa-fw"></i>发布日期:&nbsp;&nbsp;
-                    2020-01-05
+                    2025-09-09
                 </div>
                 
 
@@ -396,7 +396,7 @@
                 
                 <div class="info-break-policy">
                     <i class="far fa-file-word fa-fw"></i>文章字数:&nbsp;&nbsp;
-                    150
+                    895
                 </div>
                 
 
@@ -413,21 +413,86 @@
         <hr class="clearfix">
         <div class="card-content article-card-content">
             <div id="articleContent">
-                <ul>
-<li> 最近想将Excel文件转换为sqlite数据库文件，网上有一大堆Python代码，但都过于冗余，二少原创利用pandas库只需要几行代码将Excel格式转换为sqlite格式。</li>
+                <h3 id="更新记录"><a href="#更新记录" class="headerlink" title="更新记录"></a>更新记录</h3><p><a target="_blank" rel="noopener" href="http://www.un69.cc/xxxlockhistory">xXx时间屏保更新记录</a></p>
+<h3 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h3><ul>
+<li><a target="_blank" rel="noopener" href="http://www.un69.cc/">龙家二少</a>编写的Windows屏保软件</li>
+<li>一款会变化密码的纯绿色安全锁屏软件</li>
+<li>酷炫的3D效果</li>
 </ul>
-<pre class=" language-python"><code class="language-python"><span class="token keyword">import</span>  pandas  <span class="token keyword">as</span> pd
-<span class="token keyword">import</span> sqlite3 <span class="token keyword">as</span> db
-
-<span class="token comment" spellcheck="true">#如果某列中有开头为0的数字字符串，则需要添加参数  converters=&amp;#123;'开头是0的列名':str&amp;#125;</span>
-
-df<span class="token operator">=</span>pd<span class="token punctuation">.</span>read_excel<span class="token punctuation">(</span><span class="token string">'学生成绩.xls'</span><span class="token punctuation">,</span>sheet_name<span class="token operator">=</span><span class="token string">'一班'</span><span class="token punctuation">)</span> 
-<span class="token keyword">with</span> db<span class="token punctuation">.</span>connect<span class="token punctuation">(</span><span class="token string">'test.sdb'</span><span class="token punctuation">)</span> <span class="token keyword">as</span> con<span class="token punctuation">:</span>    
-    <span class="token keyword">try</span><span class="token punctuation">:</span>
-        df<span class="token punctuation">.</span>to_sql<span class="token punctuation">(</span>name <span class="token operator">=</span> <span class="token string">'yibancj'</span><span class="token punctuation">,</span> con <span class="token operator">=</span> con<span class="token punctuation">,</span> if_exists<span class="token operator">=</span><span class="token string">'replace'</span><span class="token punctuation">,</span> index <span class="token operator">=</span> None<span class="token punctuation">)</span>
-        <span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">'转换成功'</span><span class="token punctuation">)</span>    
-    <span class="token keyword">except</span> Exception <span class="token keyword">as</span> e<span class="token punctuation">:</span>
-        <span class="token keyword">print</span><span class="token punctuation">(</span>f<span class="token string">'转换出错，原因为：&amp;#123;e.args&amp;#125;'</span><span class="token punctuation">)</span></code></pre>
+<hr>
+<h3 id="解锁或进入设置方法："><a href="#解锁或进入设置方法：" class="headerlink" title="解锁或进入设置方法："></a>解锁或进入设置方法：</h3><ul>
+<li><p>软件启动后：回车键–&gt;输入密码–&gt;回车键</p>
+</li>
+<li><p>默认超级解锁密码为：<code>111111</code></p>
+</li>
+<li><p>默认进入设置界面密码为：<code>sz111111</code>  </p>
+</li>
+<li><p>默认时间解锁密码为：当前时间（小时与分钟共计4位数字）</p>
+</li>
+</ul>
+<h3 id="V4-1重点功能"><a href="#V4-1重点功能" class="headerlink" title="V4.1重点功能"></a>V4.1重点功能</h3><ul>
+<li>可手动设置为屏保</li>
+<li>win10-win11屏保模式透明效果修复</li>
+</ul>
+<h3 id="V4-0新玩法："><a href="#V4-0新玩法：" class="headerlink" title="V4.0新玩法："></a>V4.0新玩法：</h3><ul>
+<li>滚动字幕效果</li>
+</ul>
+<p><img src="https://www.z4a.net/images/2024/09/12/640.gif" alt="640.gif"></p>
+<h3 id="V3-9新玩法："><a href="#V3-9新玩法：" class="headerlink" title="V3.9新玩法："></a>V3.9新玩法：</h3><ul>
+<li><p><strong>水印锁屏：</strong>可自由搭配透明度及信息显示</p>
+</li>
+<li><p>水印锁屏效果：半透明且显示时间</p>
+</li>
+</ul>
+<p><img src="https://www.z4a.net/images/2023/09/14/1111839e7239f99b752.jpg"></p>
+<ul>
+<li>水印锁屏效果：低透明度且不带时间信息</li>
+</ul>
+<p><img src="https://www.z4a.net/images/2023/09/14/2220b47e918fecebfaa.jpg"></p>
+<h3 id="解锁说明"><a href="#解锁说明" class="headerlink" title="解锁说明"></a>解锁说明</h3><p>1、时间带有<code>~~**删除线**~~</code>：此时需要点击鼠标获取焦点，否则无法接受输入命令<br>2、时间是**<em>斜体**</em>：表示正在输入，可以按回车键确认命令，命令错误会自动清空以便重新输入</p>
+<h3 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h3><p><img src="https://ae05.alicdn.com/kf/H989391b28fe04459bfc6d425e75bf3cay.png" alt="基础设置.png"><br><img src="https://ae03.alicdn.com/kf/Hfc13f96aab8947de8f5d4091ff3b48879.png" alt="锁屏界面带背景图像.png"><br><img src="https://ae01.alicdn.com/kf/Ha77fa5b31d2741afac2a6228fb16071fC.png" alt="文字动画之随机汉字.gif"></p>
+<p><img src="https://ae03.alicdn.com/kf/H9719b66153e0498185a48954ac779ef37.png" alt="水波动画.gif"></p>
+<h3 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h3><p><a target="_blank" rel="noopener" href="https://ljes.lanzouu.com/ib4cr34uinnc">蓝奏云下载</a></p>
+<p>密码：cumw</p>
+<h3 id="注意："><a href="#注意：" class="headerlink" title="注意："></a>注意：</h3><ul>
+<li>本软件需要.net4.7.2支持，<a target="_blank" rel="noopener" href="https://dotnet.microsoft.com/download/dotnet-framework/net472">win7及XP系统点我跳转到微软官方下载Runtime</a></li>
+<li>精简版系统可能也需要先安装.net4.7.2</li>
+</ul>
+<h3 id="常见问题"><a href="#常见问题" class="headerlink" title="常见问题"></a>常见问题</h3><h4 id="问：为什么360等安全软件会报毒"><a href="#问：为什么360等安全软件会报毒" class="headerlink" title="问：为什么360等安全软件会报毒"></a>问：为什么360等安全软件会报毒</h4><ul>
+<li>因为软件会屏蔽Alt+F4、WIN键、防止任务管理器的打开、接收键盘输入（仅本程序内接收命令和密码）等敏感操作，故而会被360等安全软件报毒。如果不放心可以在腾讯哈勃分析系统试试，保证无毒！</li>
+</ul>
+<h4 id="问：软件无法使用"><a href="#问：软件无法使用" class="headerlink" title="问：软件无法使用"></a>问：软件无法使用</h4><ul>
+<li>本软件需要.NET Framework4.7.2支持，win7及XP系统请自行百度</li>
+<li>精简版win8及以上系统可能也需要先安装.NET Framework4.7.2</li>
+</ul>
+<h4 id="问：设置随系统启动失败"><a href="#问：设置随系统启动失败" class="headerlink" title="问：设置随系统启动失败"></a>问：设置随系统启动失败</h4><ul>
+<li>这个是因为软件要向系统启动目录（位于C盘）写入快捷方式，然后您的电脑上的XX卫士或者XX管家不允许造成的！</li>
+<li>可以手动设置快捷方式到启动目录或者关闭XX卫士、XX管家后再设置，设置完成后就可以打开这些个卫士管家了</li>
+</ul>
+<h4 id="问：如何只查看壁纸不看桌面图标"><a href="#问：如何只查看壁纸不看桌面图标" class="headerlink" title="问：如何只查看壁纸不看桌面图标"></a>问：如何只查看壁纸不看桌面图标</h4><ul>
+<li>在基础设置里勾选【隐藏桌面图标】和【最小化所有窗口】</li>
+</ul>
+<h4 id="问：可以以幻灯片的形式播放文件夹下的图片吗？"><a href="#问：可以以幻灯片的形式播放文件夹下的图片吗？" class="headerlink" title="问：可以以幻灯片的形式播放文件夹下的图片吗？"></a>问：可以以幻灯片的形式播放文件夹下的图片吗？</h4><ul>
+<li>可以，在高级设置里设置背景图片及透明度即可</li>
+</ul>
+<h4 id="问：不想看到帮助及锁屏文字怎么办？"><a href="#问：不想看到帮助及锁屏文字怎么办？" class="headerlink" title="问：不想看到帮助及锁屏文字怎么办？"></a>问：不想看到帮助及锁屏文字怎么办？</h4><ul>
+<li>在基础设置里勾选【是否隐藏帮助】及【是否隐藏时间与锁屏文字】即可。隐藏后按Esc键短时显示时间及文字</li>
+</ul>
+<h4 id="问：什么时候能作为屏保使用而无需手动启动？"><a href="#问：什么时候能作为屏保使用而无需手动启动？" class="headerlink" title="问：什么时候能作为屏保使用而无需手动启动？"></a>问：什么时候能作为屏保使用而无需手动启动？</h4><ul>
+<li>预计下一个版本实现</li>
+</ul>
+<h4 id="问：为什么自定义浮动动画显示时是乱码？"><a href="#问：为什么自定义浮动动画显示时是乱码？" class="headerlink" title="问：为什么自定义浮动动画显示时是乱码？"></a>问：为什么自定义浮动动画显示时是乱码？</h4><ul>
+<li>文字动画.txt文件需要是UTF-8编码才行（使用记事本打开【文字动画.txt】 –&gt;另存为–&gt;右下角编码里选择UTF-8–&gt;保存）。</li>
+</ul>
+<h4 id="问：可以不安装字体而直接使用ttf字体文件吗？"><a href="#问：可以不安装字体而直接使用ttf字体文件吗？" class="headerlink" title="问：可以不安装字体而直接使用ttf字体文件吗？"></a>问：可以不安装字体而直接使用ttf字体文件吗？</h4><ul>
+<li>可以。将ttf字体文件放入font目录，之后就可以在高级设置里选择字体了</li>
+</ul>
+<h4 id="问：软件会收费吗？"><a href="#问：软件会收费吗？" class="headerlink" title="问：软件会收费吗？"></a>问：软件会收费吗？</h4><ul>
+<li>软件会永久免费</li>
+</ul>
+<h4 id="问：软件会停止更新吗？"><a href="#问：软件会停止更新吗？" class="headerlink" title="问：软件会停止更新吗？"></a>问：软件会停止更新吗？</h4><ul>
+<li>不会，每年教师节发布新版</li>
+</ul>
 
             </div>
             <hr/>
@@ -453,7 +518,7 @@ df<span class="token operator">=</span>pd<span class="token punctuation">.</span
                     </i>
                 </span>
                 <span class="reprint-info">
-                    <a href="http://www2.un69.cc/excel2sdb.html">http://www2.un69.cc/excel2sdb.html</a>
+                    <a href="http://www2.un69.cc/xXxLock41.html">http://www2.un69.cc/xXxLock41.html</a>
                 </span>
             </div>
             <div class="reprint__notice">
@@ -491,12 +556,12 @@ df<span class="token operator">=</span>pd<span class="token punctuation">.</span
                     
                         <div class="article-tag">
                             
-                                <a href="/tags/Python/">
-                                    <span class="chip bg-color">Python</span>
+                                <a href="/tags/xXx%E8%BD%AF%E4%BB%B6/">
+                                    <span class="chip bg-color">xXx软件</span>
                                 </a>
                             
-                                <a href="/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/">
-                                    <span class="chip bg-color">数据库</span>
+                                <a href="/tags/xXx%E6%97%B6%E9%97%B4%E5%B1%8F%E4%BF%9D/">
+                                    <span class="chip bg-color">xXx时间屏保</span>
                                 </a>
                             
                         </div>
@@ -664,50 +729,52 @@ df<span class="token operator">=</span>pd<span class="token punctuation">.</span
 <article id="prenext-posts" class="prev-next articles">
     <div class="row article-row">
         
-        <div class="article col s12 m6" data-aos="fade-up">
+        <div class="article col s12 m6" data-aos="fade-up" data-aos="fade-up">
             <div class="article-badge left-badge text-color">
-                <i class="fas fa-chevron-left"></i>&nbsp;上一篇</div>
+                <i class="far fa-dot-circle"></i>&nbsp;本篇
+            </div>
             <div class="card">
-                <a href="/win10dragfile.html">
+                <a href="/xXxLock41.html">
                     <div class="card-image">
                         
                         
-                        <img src="/medias/featureimages/22.jpg" class="responsive-img" alt="简单几步解决Win10系统不能拖放文件的问题">
+                        <img src="/medias/featureimages/21.jpg" class="responsive-img" alt="xXx时间屏保 V4.1">
                         
-                        <span class="card-title">简单几步解决Win10系统不能拖放文件的问题</span>
+                        <span class="card-title">xXx时间屏保 V4.1</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
                     <div class="summary block-with-text">
                         
-                            简单几步解决Win10系统不能拖放文件的问题
+                            一款超酷炫、超实用、密码会变化的锁屏软件
                         
                     </div>
                     <div class="publish-info">
-                        <span class="publish-date">
-                            <i class="far fa-clock fa-fw icon-date"></i>2020-02-24
-                        </span>
+                            <span class="publish-date">
+                                <i class="far fa-clock fa-fw icon-date"></i>2025-09-09
+                            </span>
                         <span class="publish-author">
                             
                             <i class="fas fa-bookmark fa-fw icon-category"></i>
                             
-                            <a href="/categories/%E5%8E%9F%E5%88%9B%E6%95%99%E7%A8%8B/" class="post-category">
-                                    原创教程
+                            <a href="/categories/%E5%8E%9F%E5%88%9B%E8%BD%AF%E4%BB%B6/" class="post-category">
+                                    原创软件
                                 </a>
                             
                             
                         </span>
                     </div>
                 </div>
+
                 
                 <div class="card-action article-tags">
                     
-                    <a href="/tags/win10%E6%95%85%E9%9A%9C/">
-                        <span class="chip bg-color">win10故障</span>
+                    <a href="/tags/xXx%E8%BD%AF%E4%BB%B6/">
+                        <span class="chip bg-color">xXx软件</span>
                     </a>
                     
-                    <a href="/tags/%E6%96%87%E4%BB%B6%E6%8B%96%E6%94%BE/">
-                        <span class="chip bg-color">文件拖放</span>
+                    <a href="/tags/xXx%E6%97%B6%E9%97%B4%E5%B1%8F%E4%BF%9D/">
+                        <span class="chip bg-color">xXx时间屏保</span>
                     </a>
                     
                 </div>
@@ -721,24 +788,24 @@ df<span class="token operator">=</span>pd<span class="token punctuation">.</span
                 下一篇&nbsp;<i class="fas fa-chevron-right"></i>
             </div>
             <div class="card">
-                <a href="/xXxLock37.html">
+                <a href="/xxxlockhistory.html">
                     <div class="card-image">
                         
                         
-                        <img src="/medias/featureimages/2.jpg" class="responsive-img" alt="xXx时间屏保 V3.7">
+                        <img src="/medias/featureimages/21.jpg" class="responsive-img" alt="xXx时间屏保更新记录">
                         
-                        <span class="card-title">xXx时间屏保 V3.7</span>
+                        <span class="card-title">xXx时间屏保更新记录</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
                     <div class="summary block-with-text">
                         
-                            一款超酷炫、超实用、密码会变化的锁屏软件
+                            xXx时间屏保更新记录
                         
                     </div>
                     <div class="publish-info">
                             <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2019-05-04
+                                <i class="far fa-clock fa-fw icon-date"></i>2025-09-09
                             </span>
                         <span class="publish-author">
                             
